@@ -2,11 +2,11 @@
 
            .             ​ pedri.exe@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : OSwin 
-        .lllll.          ​ Kernel : NERD-DEV 2.29 
+         .ccc.           ​ OS : EXEos 
+        .lllll.          ​ Kernel : NERD-DEV 9.29 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
-     .lcc'   'ccc.       ​ Uptime : 17 years
+     .lcc'   'ccc.       ​ Uptime : 18 years
     .ccc'     'cc:.      ​ CPU : PhotonFlux AY-01
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     A   N   O   M   U   S   L    Y    火 
